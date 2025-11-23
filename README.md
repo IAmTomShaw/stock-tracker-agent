@@ -2,6 +2,8 @@
 
 An AI-powered agent that tracks selected stock prices, analyzes market news when significant price changes occur, and keeps you informed via automated SMS messages. You can also interact with the agent by sending SMS commands to add or remove stocks from your tracker list.
 
+![Stock Tracker Agent Diagram](docs/example.jpg)
+
 ---
 
 ## 🎯 Use Case
